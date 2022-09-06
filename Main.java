@@ -1,4 +1,4 @@
-public class Challenge1_4
+public class Main
 {
    public static void main(String[] args)
    {
@@ -7,8 +7,9 @@ public class Challenge1_4
        int birthYear = 2005;
        int dogBirthYear = 2006;
 
-       System.out.println(age);
+       
        int age = 16;
+       System.out.println(age);
 
        System.out.println(age);
        int dogAge = 17;
